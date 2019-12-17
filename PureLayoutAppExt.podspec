@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = 'PureLayoutAppExt'
   s.version               = '3.1.5'
-  s.homepage              = "https://github.com/#{PureLayout}/#{PureLayout}"
+  s.homepage              = "https://github.com/PureLayout/PureLayout"
   s.license               = { type: 'MIT', file: 'LICENSE' }
   s.author                = 'Tyler Fox'
   s.ios.deployment_target = '6.0'
